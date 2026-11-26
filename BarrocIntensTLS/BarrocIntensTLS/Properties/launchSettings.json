@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BarrocIntensTLS (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BarrocIntensTLS (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

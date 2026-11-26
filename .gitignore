@@ -1,0 +1,69 @@
+﻿# ==========================================
+# Barroc Intens - C# / Visual Studio 2026
+# ==========================================
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build bestanden
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+x64/
+x86/
+[Aa]rtifacts/
+publish/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Testresultaten
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs en tijdelijke bestanden
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Lokale databases
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# Wachtwoorden en geheime instellingen
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Local.json
+appsettings.Development.local.json
+*.pfx
+*.p12
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Windows en macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
